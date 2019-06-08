@@ -20,7 +20,7 @@ https://github.com/pinebase/website-link-extractor
 # Contact: contact.scottforsberg@gmail.com
 
 # Release Date: 2019-06-08
-# Version: .3
+# Version: .4
 
 
 
