@@ -2,7 +2,7 @@
 
 
 # set program variables
-program_name="website-link-extractor"
+program_name="url-extractor"
 version=$(cat /var/lib/$program_name/current_version)
 
 
@@ -11,7 +11,7 @@ function display_options(){
 
 	options_text="
 
-		Website Link Extractor - options
+		URL Extractor - options
 
 		version $version
 

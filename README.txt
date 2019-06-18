@@ -1,26 +1,24 @@
 
-
-           _      
-          | |     
- __      _| | ___ 
- \ \ /\ / / |/ _ \
-  \ V  V /| |  __/
-   \_/\_/ |_|\___|
-                  
-
+             _      
+            | |     
+  _   _ _ __| | ___ 
+ | | | | '__| |/ _ \
+ | |_| | |  | |  __/
+  \__,_|_|  |_|\___|
+             
 
 
-Website Link Extractor
+URL Extractor
 
 
 
-https://github.com/pinebase/website-link-extractor
+https://github.com/pinebase/url-extractor
 
 # Author: Scott Forsberg
 # Contact: contact.scottforsberg@gmail.com
 
-# Release Date: 2019-06-08
-# Version: .4
+# Release Date: 2019-06-17
+# Version: .5
 
 
 
@@ -50,7 +48,7 @@ Installation
 
 	Download and unzip the program files, then change working directory to them:
 	
-		# cd website-link-extractor
+		# cd url-extractor
 
 
 	Next, run the installation script:
@@ -61,13 +59,13 @@ Installation
 	This will install the following files and folders:
 
 		write protected library files, version specific
-			/usr/lib/website-link-extractor/v$version	
+			/usr/lib/url-extractor/v$version	
 
 		storage for lists of generated words
-			/var/lib/website-link-extractor
+			/var/lib/url-extractor
 
 		man page for wle				
-			/usr/local/share/man/man1/wle.1		
+			/usr/local/share/man/man1/urle.1		
 
 
 

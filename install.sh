@@ -2,8 +2,8 @@
 
 
 # set program name
-program_name="website-link-extractor"
-program_executable="wle"
+program_name="url-extractor"
+program_executable="urle"
 
 # get current version
 version=$(cat ./version)
@@ -11,17 +11,18 @@ version=$(cat ./version)
 
 # load installation header
 header="
-          _       
-         | |      
-__      _| | ___  
-\ \ /\ / / |/ _ \ 
- \ V  V /| |  __/ 
-  \_/\_/ |_|\___| 
-                  
+             _      
+            | |     
+  _   _ _ __| | ___ 
+ | | | | '__| |/ _ \
+ | |_| | |  | |  __/
+  \__,_|_|  |_|\___|
+                    
+
 "
 echo "$header"
 echo ""
-echo "Website Link Extractor"
+echo "URL Extractor"
 echo "version $version"
 echo "https://github.com/pinebase/$program_name"
 echo ""
